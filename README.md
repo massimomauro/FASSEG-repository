@@ -2,7 +2,7 @@
 
 Welcome to the webpage of the FAce Semantic SEGmentation (FASSEG) dataset.
 
-The FASSEG database is made available here in two versions:
+The FASSEG dataset is made available here in two versions:
 
 - **V1** contains 70 labeled faces and the original RGB images. **This is exactly the same dataset we used in our paper** [1]. Faces are mainly taken from the MIT-CBCL[2] and FEI[3] datasets. Images are organized in two folders - train and test -  matching the division we adopted in the paper.
 
