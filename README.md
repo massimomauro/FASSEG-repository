@@ -11,7 +11,7 @@ The FASSEG dataset is made available here in two versions:
 Our advice is: if you need to compare with our results, choose V1. If you need a dataset to build your models, choose V2.
 
 
-[1] *Massimo Mauro*, *Khalil Khan* , *Riccardo Leonardi*, **"Multi-class semantic segmentation of faces"**, submitted at ICIP 2015
+[1] *Massimo Mauro*, *Khalil Khan*, *Riccardo Leonardi*, **"Multi-class semantic segmentation of faces"**, submitted at ICIP 2015
 
 [2] *MIT Center for Biological and Computational Learning (CBCL)*, **MIT-CBCL database**, [http://cbcl.mit.edu/software-datasets/FaceData2.html](http://cbcl.mit.edu/software-datasets/FaceData2.html)[3] *Centro Universitario da FEI*, **FEI database**,
 [http://www.fei.edu.br/~cet/facedatabase.html](http://www.fei.edu.br/~cet/facedatabase.html)
