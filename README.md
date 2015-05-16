@@ -10,6 +10,8 @@ The FASSEG dataset is made available here in two versions:
 
 Our advice is: if you need to compare with our results, choose V1. If you need a dataset to build your models, choose V2.
 
+In any case, if you use our datasets, please cite our work [1].
+
 
 [1] *Massimo Mauro*, *Khalil Khan*, *Riccardo Leonardi*, **"Multi-class semantic segmentation of faces"**, International Conference on Image Processing (ICIP), 2015
 
