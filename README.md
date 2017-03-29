@@ -1,4 +1,4 @@
-# FASSEG dataset
+# FAce SEmantic SEGmentation repository
 
 Welcome to the webpage of the *FAce Semantic SEGmentation* (*FASSEG*) repository.
 
