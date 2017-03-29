@@ -1,21 +1,35 @@
 # FASSEG dataset
 
-Welcome to the webpage of the FAce Semantic SEGmentation (FASSEG) dataset.
+Welcome to the webpage of the *FAce Semantic SEGmentation* (*FASSEG*) repository.
 
-The FASSEG dataset is made available here in 3 versions:
+The FASSEG repository is composed by two datasets (*frontal01* and *frontal02*) for frontal face segmentation, and one dataset (*multipose01*) with faces in multiple poses.
 
-- **V1** contains 70 labeled faces and the original RGB images. Original faces are mainly taken from the MIT-CBCL [3] and FEI [4] datasets. **This is the dataset we used in our paper** [1]. Images are organized in two folders - train and test - matching the division we adopted in the paper.
+If you use our datasets, please cite our works ([1] or [2], depending on the dataset).
 
-- **V2** is an *"high-precision V1"*. It contains the same images as the V1 but it's much more precise in the segmentations.
+## Dataset descriptions
 
-- **V3** contains labeled faces in multiple poses. Original faces are taken from the Pointing04 database [5]. **This is the dataset we used in our paper** [2]. Images are organized in two folders - train and test - matching the division we adopted in the paper.
+### Frontal01
 
-Our advice is: if you need to compare with our results in [1], choose V1. If you need a dataset to build your frontal face segmentation models, choose V2. If you need multiple poses, choose V3. 
+Frontal01 contains **70 labeled frontal faces** and the original RGB images. Original faces are mainly taken from the MIT-CBCL [3] and FEI [4] datasets. 
 
-In any case, if you use our datasets, please cite our work ([1] or [2], depending on the dataset).
+**This is the dataset we used in our work [1]**. Images are organized in two folders - train and test - matching the division we adopted in the paper.
+
+### Frontal02
+
+Frontal02 is an *"high-precision 01"*. It contains the same images as in Frontal01 but with much more precise segmentations.
 
 
-[1] *Khalil Khan*, *Massimo Mauro*, *Riccardo Leonardi*, **"Multi-class semantic segmentation of faces"**, International Conference on Image Processing (ICIP), 2015
+### Multipose01
+Multipose01 contains more than **200 labeled faces in multiple poses**. Original faces are taken from the Pointing04 database [5].
+
+**This is the dataset we used in our work [2]**. Images are organized in two folders - train and test - matching the division we adopted in the paper.
+
+*Our advice is: if you need to compare with our results in [1], choose Frontal01. If you need a dataset to train a frontal face segmenter, choose Frontal02. If you are working with multiple head poses, choose Multipose01.*
+
+
+## References
+
+[1] *Khalil Khan*, *Massimo Mauro*, *Riccardo Leonardi*, **"Multi-class semantic segmentation of faces"**, IEEE International Conference on Image Processing (ICIP), 2015
 
 [2] *Khalil Khan*, *Massimo Mauro*, *Riccardo Leonardi*, **"Head pose estimation through multiclass face segmentation"**, IEEE International Conference on Multimedia and Expo (ICME), 2017
 
