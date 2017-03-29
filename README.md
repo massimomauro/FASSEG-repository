@@ -1,4 +1,4 @@
-# FAce SEmantic SEGmentation repository
+# FAce Smantic SEGmentation repository
 
 Welcome to the webpage of the *FAce Semantic SEGmentation* (*FASSEG*) repository.
 
