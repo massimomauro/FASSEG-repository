@@ -1,0 +1,1 @@
+These images were used for testing the pose estimator.
