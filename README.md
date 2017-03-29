@@ -32,7 +32,7 @@ Multipose01 contains more than **200 labeled faces in multiple poses**. Original
 [1] *Khalil Khan*, *Massimo Mauro*, *Riccardo Leonardi*, **"Multi-class semantic segmentation of faces"**, IEEE International Conference on Image Processing (ICIP), 2015
 
 [2] *Khalil Khan*, *Massimo Mauro*, *Riccardo Leonardi*, **"Head pose estimation through multiclass face segmentation"**, IEEE International Conference on Multimedia and Expo (ICME), 2017. 
-*In collaboration with [YonderLabs](www.yonderlabs.com)*
+*In collaboration with [YonderLabs](http://www.yonderlabs.com)*
 
 [3] *MIT Center for Biological and Computational Learning (CBCL)*, **MIT-CBCL database**, [http://cbcl.mit.edu/software-datasets/FaceData2.html](http://cbcl.mit.edu/software-datasets/FaceData2.html)
 
