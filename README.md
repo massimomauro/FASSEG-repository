@@ -1,8 +1,8 @@
 # FAce Smantic SEGmentation repository
 
-Welcome to the webpage of the *FAce Semantic SEGmentation* (*FASSEG*) repository.
+Welcome to the *FAce Semantic SEGmentation* (*FASSEG*) repository.
 
-The FASSEG repository is composed by two datasets (*frontal01* and *frontal02*) for frontal face segmentation, and one dataset (*multipose01*) with faces in multiple poses.
+The FASSEG repository is composed by two datasets (*frontal01* and *frontal02*) for frontal face segmentation, and one dataset (*multipose01*) with labaled faces in multiple poses.
 
 If you use our datasets, please cite our works ([1] or [2], depending on the dataset).
 
@@ -16,7 +16,7 @@ Frontal01 contains **70 labeled frontal faces** and the original RGB images. Ori
 
 ### Frontal02
 
-Frontal02 is an *"high-precision 01"*. It contains the same images as in Frontal01 but with much more precise segmentations.
+Frontal02 is an *"high-precision 01"*. It contains the same images as Frontal01 but with much more precise segmentations.
 
 
 ### Multipose01
@@ -29,14 +29,25 @@ Multipose01 contains more than **200 labeled faces in multiple poses**. Original
 
 ## References
 
-[1] *Khalil Khan*, *Massimo Mauro*, *Riccardo Leonardi*, **"Multi-class semantic segmentation of faces"**, IEEE International Conference on Image Processing (ICIP), 2015
+[1] *Khalil Khan*, *Massimo Mauro*, *Riccardo Leonardi*,
+**"Multi-class semantic segmentation of faces"**,
+IEEE International Conference on Image Processing (ICIP), 2015
+-- [**PDF**](papers/multiclass_face_segmentation_ICIP2015.pdf)
 
-[2] *Khalil Khan*, *Massimo Mauro*, *Riccardo Leonardi*, **"Head pose estimation through multiclass face segmentation"**, IEEE International Conference on Multimedia and Expo (ICME), 2017. 
+[2] *Khalil Khan*, *Massimo Mauro*, *Pierangelo Migliorati*, *Riccardo Leonardi*,
+**"Head pose estimation through multiclass face segmentation"**,
+IEEE International Conference on Multimedia and Expo (ICME), 2017
 *In collaboration with [YonderLabs](http://www.yonderlabs.com)*
+-- [**PDF**](papers/pose_estimation_by_segmentation_ICME2017.pdf)
 
-[3] *MIT Center for Biological and Computational Learning (CBCL)*, **MIT-CBCL database**, [http://cbcl.mit.edu/software-datasets/FaceData2.html](http://cbcl.mit.edu/software-datasets/FaceData2.html)
 
-[4] *Centro Universitario da FEI*, **FEI database**,
+[3] *MIT Center for Biological and Computational Learning (CBCL)*,
+**MIT-CBCL database**,
+[http://cbcl.mit.edu/software-datasets/FaceData2.html](http://cbcl.mit.edu/software-datasets/FaceData2.html)
+
+[4] *Centro Universitario da FEI*,
+**FEI database**,
 [http://www.fei.edu.br/~cet/facedatabase.html](http://www.fei.edu.br/~cet/facedatabase.html)
 
-[5] *Nicolas Gourier, Daniela Hall, and James L Crowley*, **“Estimating face orientation from robust detection of salient facial structures”** in FG Net Workshop on Visual Observation of Deictic Gestures. FGnet (IST– 2000–26434) Cambridge, UK, 2004, pp. 1–9.
+[5] *Nicolas Gourier, Daniela Hall, and James L Crowley*,
+**“Estimating face orientation from robust detection of salient facial structures”** in FG Net Workshop on Visual Observation of Deictic Gestures. FGnet (IST– 2000–26434) Cambridge, UK, 2004, pp. 1–9
